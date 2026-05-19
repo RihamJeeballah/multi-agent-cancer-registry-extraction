@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.db7
+.env
+OUTPUTS/
+*.csv
+*.png
+*.zip
+*.log
+.streamlit/
