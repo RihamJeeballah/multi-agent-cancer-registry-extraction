@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+sqlalchemy
+pyvis
+langgraph
+langchain
+langchain-core
+langchain-ollama
+ollama
+faiss-cpu
+sentence-transformers
+chromadb
